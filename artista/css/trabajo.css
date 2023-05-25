@@ -22,7 +22,7 @@ main{
    background: url("../imagenes/fondo2.avif");
    background-size: 120% 0%;
    font-size: 18px;
-   box-shadow: 1px 1px 10px #6e6e7046;
+   box-shadow: 20px 20px 20px 20px #4e4e5846;
    border-radius: 40px;
    width: 1100px;
    margin: 4px auto;
@@ -99,13 +99,15 @@ footer{
 
 }
 .marco{
+   
    border-radius: 15px;
-   padding: 10px ;
+   padding: 20px 20px ;
    background-color: #44445846;
+   margin: 10px 20px 20px 20px;
    color: #000000;
    float: right;
    width: 60%;
-   margin: 100 0 0 0;
+   
 }
 ol {
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
